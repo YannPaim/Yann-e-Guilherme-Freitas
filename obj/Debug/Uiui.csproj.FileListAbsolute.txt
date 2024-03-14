@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\bin\Debug\Uiui.exe.config
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\bin\Debug\Uiui.exe
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\bin\Debug\Uiui.pdb
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.Form1.resources
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.Properties.Resources.resources
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.exe
+C:\Users\Aluno\Desktop\guilhermwefreitas\Uiui\obj\Debug\Uiui.pdb
